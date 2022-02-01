@@ -5,7 +5,7 @@ sidebar_label: Minting FTs (Simple)
 ---
 
 In this tutorial, you'll learn how to easily create your own Fungible Tokens (FT) without doing any software development by using a readily-available smart contract.
-This article will show you how to use an existing [FT smart contract](#fungible-token-contract), and you'll learn [how to mint](#minting-your-fts) fungible tokens and [view them](#checking-your-wallet) in your Wallet.
+This article will show you how to use an existing [FT smart contract](https://github.com/near-examples/FT), and you'll learn [how to mint](#minting-your-fts) fungible tokens and [view them](#checking-your-wallet) in your Wallet.
 
 ## Prerequisites
 
