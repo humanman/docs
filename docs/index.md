@@ -165,6 +165,8 @@ If you have any questions, or simply would want to chat with us, please do throu
 
 <br/>
 
+// adjust styling below to be more responsive, i.e. max-width: "5vw;"
+
 <div class="container">
   <div class="row">
     <div class="col col--2">
